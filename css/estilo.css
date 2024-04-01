@@ -3,6 +3,9 @@ html{
     font-size: 16px;
 }
 
+.container{
+    margin: 20px;
+}
 #cabecalho{
     font-size: 62.5%;
 

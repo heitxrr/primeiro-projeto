@@ -12,10 +12,17 @@ html{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    font-family:serif;
+    font-family: serif;
 
 }
 
+h1 {
+    font-family: serif;
+}
+
+h2  {
+    font-family: serif;
+}
 
 h1 {
     color: red;

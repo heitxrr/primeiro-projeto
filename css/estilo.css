@@ -11,6 +11,11 @@ p{
     color: green;
 }
 
+button{
+    background-color: blue;
+    color: white;
+}
+
 #conteudo-principal{
     line-height: 1.5;
 }

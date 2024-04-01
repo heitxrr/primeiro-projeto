@@ -6,6 +6,11 @@ html{
 .container{
     margin: 20px;
 }
+
+#conteudo-principal{
+    line-height: 1.5;
+}
+
 #cabecalho{
     font-size: 62.5%;
 

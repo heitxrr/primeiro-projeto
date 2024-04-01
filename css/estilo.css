@@ -16,6 +16,10 @@ html{
 
 }
 
+nav {
+    font-weight: bold;
+}
+
 h1 {
     font-family: serif;
 }

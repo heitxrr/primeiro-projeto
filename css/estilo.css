@@ -11,6 +11,11 @@ html{
     line-height: 1.5;
 }
 
+form{
+    border: 1px solid gray;
+    padding: 10px;
+}
+
 #cabecalho{
     font-size: 62.5%;
 
